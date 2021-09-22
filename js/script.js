@@ -31,7 +31,3 @@ function render() {
     $exampleContainer.text(`Example: ${def[0].meanings[0].definitions[0].example}`);
     $originContainer.text(`Origin: ${def[0].origin}`);
 }
-
-// function render() {
-//     $definitionContainer.text(def);
-// }

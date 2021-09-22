@@ -7,6 +7,7 @@ This app will let you search the definition for any word.
 3. Javascript/Jquery
 
 # Screenshots
+![program_screenshot](/program_screenshot.jpg)
 
 # Getting Started
 
