@@ -10,4 +10,6 @@ This app will let you search the definition for any word.
 
 # Getting Started
 
+Link for the free dictionary project - [Free Dictionary](https://github.com/luisflores09/free_dictionary.git)
+
 # Future Enhancements

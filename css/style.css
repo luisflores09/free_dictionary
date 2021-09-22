@@ -9,7 +9,7 @@ body {
 }
 
 div.container {
-    width: 600px;
+    width: 800px;
     height: 400px;
     border: 2px dotted balck;
     display: flex;
@@ -17,6 +17,7 @@ div.container {
     align-items: center;
     flex-direction: column;
     background-image: url('/dictionary_background.jpg');
+    background-size: cover;
 }
 
 div.title {
