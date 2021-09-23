@@ -36,6 +36,7 @@ div.gif-container {
 
 div.input-form {
     color: black;
+    padding-top: 10px;
 }
 
 div.first-definition {
@@ -55,4 +56,5 @@ div.second-definition {
 div.origin-container {
     background-color: rgba(0, 0, 0, 0.6);
     font-size: large;
+    padding: 10px;
 }
