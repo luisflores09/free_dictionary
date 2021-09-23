@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('https://media.istockphoto.com/photos/open-book-hardback-books-on-wooden-table-education-background-back-picture-id591810668?k=20&m=591810668&s=612x612&w=0&h=XAE8mlyqycD2LLcptfWlaj-rXhl4JuZvohRBCI2fniU=');
+    background-image: url('../dictionary_background.jpg');
     background-size: cover;
 }
 
