@@ -38,14 +38,18 @@ div.input-form {
     color: black;
 }
 
-div.definition-container {
+div.first-definition {
     background-color: rgba(0, 0, 0, 0.6);
     font-size: large;
+    text-align: left;
+    padding: 10px;
 }
 
-div.example-container {
+div.second-definition {
     background-color: rgba(0, 0, 0, 0.6);
     font-size: large;
+    text-align: left;
+    padding: 10px;
 }
 
 div.origin-container {
