@@ -6,6 +6,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url('/dictionary_background.jpg');
+    background-size: cover;
 }
 
 div.container {
@@ -16,12 +18,13 @@ div.container {
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
-    background-image: url('/dictionary_background.jpg');
-    background-size: cover;
+    color: white;
+
 }
 
 div.title {
     margin-top: 2.5rem;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 div.gif-container {
@@ -32,5 +35,20 @@ div.gif-container {
 }
 
 div.input-form {
-    margin-right: 4rem;
+    color: black;
+}
+
+div.definition-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: large;
+}
+
+div.example-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: large;
+}
+
+div.origin-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: large;
 }
